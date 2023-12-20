@@ -4,8 +4,8 @@
 #include <WiFiUdp.h>
 
 // Wi-Fi credentials
-const char* ssid = "SDABroadcast";
-const char* password = "yaytheatre";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 int cameraNum = 1;
 
 // NeoPixel definitions
