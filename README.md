@@ -31,3 +31,14 @@ To use this system, connect [ATEMOSC](https://www.atemosc.com/) to your ATEM swi
     - IP: `X.X.255.255`
        - This can change depending on your subnet
     - Port: `8888`
+ 
+## Support The Project ❤️
+### If this helped you, consider helping the project by making a one-time donation via **[PayPal](http://paypal.me/joeshea2)**
+
+#
+## Join the Discord Community
+
+<a href="https://discord.gg/FJ79AKPgSk">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
+
