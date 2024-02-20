@@ -1,5 +1,9 @@
 ## Tally Light for ATEM Switchers
 
+
+https://github.com/jshea2/AtemTallyLight-FeatherV2/assets/70780576/6c430d9f-d948-4d85-9b9a-beb7b0bb8540
+
+
 ### Requirements:
 - [FeatherV2](https://www.adafruit.com/product/5400)
 - Wireless Router
