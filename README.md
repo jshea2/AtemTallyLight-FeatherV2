@@ -5,7 +5,7 @@ https://github.com/jshea2/AtemTallyLight-FeatherV2/assets/70780576/6c430d9f-d948
 
 
 ### Requirements:
-- [FeatherV2](https://www.adafruit.com/product/5400)
+- [FeatherV2](https://www.adafruit.com/product/5400) (Get the one with built-in antenna) 
 - Wireless Router
 - Camera with USB port for power (or any alternative USB power source)
 - ATEM Switcher
